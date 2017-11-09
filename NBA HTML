@@ -5,4 +5,10 @@ background-color- #0000FF
 }
 </style>
 <img src="https://www.logodesignlove.com/images/classic/nba-logo.jpg" alt="NBA logo"> </img>
+.center {
+position: fixed;
+top: 15%;
+left: 50%
+margin-top: 50px;
+margine-left:  -150px;
 </html>
